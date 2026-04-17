@@ -1,4 +1,4 @@
-# Yashar Heidari â€” Social Media & Brand Marketing Specialist Portfolio
+# Yashar Heidari — Social Media & Brand Marketing Specialist Portfolio
 
 Paid + organic social, brand systems, and channel growth.
 
@@ -13,7 +13,7 @@ Social Media & Brand Marketing Specialist with 5 years of experience building ch
 
 ## Contact
 
-- Location: Messina, Italy آ· Open to Remote
+- Location: Messina, Italy · Open to Remote
 - Email: yashaarheidari@gmail.com
 - LinkedIn: https://linkedin.com/in/yheidari
 - GitHub: https://github.com/yheidari/social-brand-marketing
